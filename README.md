@@ -5,29 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Web+Applications;One+Commit+at+a+time;Exploring+AI+and+Machine+Learning" />
 
----
 ![](https://komarev.com/ghpvc/?username=sonali-mehta-hub&color=blueviolet&style=for-the-badge)
-
-
-<p align="center">
-  <a href="mailto:sonalikumari1604@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/sonali-kumari-451967275/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/u/sonali_mehta/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-
-  <a href="https://its-sonali-portfolio-5hps.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge" />
-  </a>
-</p>
-
----
 
 </div>
 
@@ -87,6 +65,26 @@
 
 ---
 
+<div align="center">
+<p align="center">
+  <a href="mailto:sonalikumari1604@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sonali-kumari-451967275/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/sonali_mehta/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://its-sonali-portfolio-5hps.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge" />
+  </a>
+</p>
+
+</div>
 
 <div align="center">
 
