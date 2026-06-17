@@ -20,7 +20,10 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonali-mehta-hub&theme=tokyo-night" />
 </p>
 --- 
+<details>
+<summary> -> Click to View More </summary>
 
+<br>
 ---
 
 ### 📊 Most Used Languages
