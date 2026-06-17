@@ -6,6 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Web+Applications;One+Commit+at+a+time;Exploring+AI+and+Machine+Learning" />
 
 ---
+![](https://komarev.com/ghpvc/?username=sonali-mehta-hub&color=blueviolet&style=for-the-badge)
 
 
 <p align="center">
@@ -89,8 +90,6 @@
 
 <div align="center">
 
-### 💡 Turning Ideas into Real Products
-
-![](https://komarev.com/ghpvc/?username=sonali-mehta-hub&color=blueviolet&style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting+!!!;Have+a+nice+day" />
 
 </div>
