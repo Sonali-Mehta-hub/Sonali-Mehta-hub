@@ -3,7 +3,7 @@
 # Hi 👋, I'm Sonali Kumari
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Web+Applications;MERN+Stack+Developer;one+commit+at+a+time;Exploring+AI+and+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Web+Applications;One+Commit+at+a+time;Exploring+AI+and+Machine+Learning" />
 
 ---
 
