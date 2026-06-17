@@ -1,35 +1,148 @@
-<h1 align="center">Hi 👋, I'm Sonali Kumari</h1>
-<h3 align="center">A Final Year Student at Amity University Jharkhand</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali-mehta-hub&label=Profile%20views&color=0e75b6&style=flat" alt="sonali-mehta-hub" /> </p>
+# Hi 👋, I'm Sonali Kumari
 
-- 🔭 I’m currently working on [PRobot(Github-PR-Reviewer)](https://github.com/Sonali-Mehta-hub/PRobot)
+### Full Stack Developer | Open Source Contributor | B.Tech CSE Student
 
-- 🌱 I’m currently learning **FastApi, GenAI,Machine Learning,**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Web+Applications;MERN+Stack+Developer;Open+Source+Contributor;Exploring+AI+and+Machine+Learning" />
 
-- 👨‍💻 All of my projects are available at [https://its-sonali-portfolio-5hps.vercel.app/](https://its-sonali-portfolio-5hps.vercel.app/)
-
-- 💬 Ask me about **React,Node.js,JavaScript**
-
-- 📫 How to reach me **sonalikumari1604@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BXg_fbSGdQaarcLp1SN93Ljq-gvmQMyp/view?usp=sharing](https://drive.google.com/file/d/1BXg_fbSGdQaarcLp1SN93Ljq-gvmQMyp/view?usp=sharing)
-
-- ⚡ Fun fact **I spend hours fixing a bug that eventually turns out to be a missing semicolon.**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sonali-kumari-451967275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sonali-kumari-451967275/" height="30" width="40" /></a>
-<a href="https://medium.com/@sonalikumari1604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sonalikumari1604" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sonali_mehta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sonali_mehta/" height="30" width="40" /></a>
+<p>
+  <a href="https://its-sonali-portfolio-5hps.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sonali-kumari-451967275/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/sonali_mehta/">LeetCode</a> •
+  <a href="https://medium.com/@sonalikumari1604">Medium</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonali-mehta-hub&show_icons=true&locale=en&layout=compact" alt="sonali-mehta-hub" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonali-mehta-hub&show_icons=true&locale=en" alt="sonali-mehta-hub" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonali-mehta-hub&" alt="sonali-mehta-hub" /></p>
+- 🎓 B.Tech Computer Science Student at **Amity University Jharkhand**
+- 💻 Passionate about Full Stack Web Development and Open Source
+- 🌱 Currently learning **FastAPI, Generative AI, and Machine Learning**
+- 🔭 Building **PRobot - AI Powered GitHub Pull Request Reviewer**
+- ⚡ Love solving DSA problems and building impactful products
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 PRobot
+AI-powered GitHub Pull Request Reviewer that helps developers review code efficiently.
+
+### 🎉 Festify
+Event Destination Finder platform with authentication, admin dashboard, and cloud image storage.
+
+### ⚡ TabCommander
+Browser productivity extension for managing tabs with keyboard shortcuts and smart controls.
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonali-mehta-hub&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonali-mehta-hub&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonali-mehta-hub&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonali-mehta-hub&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- FastAPI
+- Machine Learning
+- Generative AI
+- System Design
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonali-mehta-hub&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:sonalikumari1604@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sonali-kumari-451967275/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/sonali_mehta/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://its-sonali-portfolio-5hps.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/sonali-mehta-hub/sonali-mehta-hub/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+<div align="center">
+
+### 💡 Turning Ideas into Real Products
+
+![](https://komarev.com/ghpvc/?username=sonali-mehta-hub&color=blueviolet&style=for-the-badge)
+
+</div>
