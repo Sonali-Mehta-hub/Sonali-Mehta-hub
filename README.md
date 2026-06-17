@@ -2,9 +2,8 @@
 
 # Hi 👋, I'm Sonali Kumari
 
-### Full Stack Developer | Open Source Contributor | B.Tech CSE Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Web+Applications;MERN+Stack+Developer;Open+Source+Contributor;Exploring+AI+and+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Web+Applications;MERN+Stack+Developer;One Commit at a time+Contributor;Exploring+AI+and+Machine+Learning" />
 
 <p>
   <a href="https://its-sonali-portfolio-5hps.vercel.app/">Portfolio</a> •
@@ -16,14 +15,25 @@
 </div>
 
 ---
+## 📈 GitHub Analytics
 
-## 🚀 About Me
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonali-mehta-hub&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonali-mehta-hub&theme=tokyonight" />
+</p>
 
-- 🎓 B.Tech Computer Science Student at **Amity University Jharkhand**
-- 💻 Passionate about Full Stack Web Development and Open Source
-- 🌱 Currently learning **FastAPI, Generative AI, and Machine Learning**
-- 🔭 Building **PRobot - AI Powered GitHub Pull Request Reviewer**
-- ⚡ Love solving DSA problems and building impactful products
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonali-mehta-hub&theme=tokyo-night" />
+</p>
+--- 
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonali-mehta-hub&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -60,56 +70,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🤖 PRobot
-AI-powered GitHub Pull Request Reviewer that helps developers review code efficiently.
-
-### 🎉 Festify
-Event Destination Finder platform with authentication, admin dashboard, and cloud image storage.
-
-### ⚡ TabCommander
-Browser productivity extension for managing tabs with keyboard shortcuts and smart controls.
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonali-mehta-hub&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonali-mehta-hub&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonali-mehta-hub&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonali-mehta-hub&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-- FastAPI
-- Machine Learning
-- Generative AI
-- System Design
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonali-mehta-hub&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
@@ -133,11 +93,7 @@ Browser productivity extension for managing tabs with keyboard shortcuts and sma
 
 ---
 
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/sonali-mehta-hub/sonali-mehta-hub/output/github-contribution-grid-snake-dark.svg)
-
----
 
 <div align="center">
 
