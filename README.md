@@ -17,9 +17,6 @@
 
 - ⚡ Fun fact **I spend hours fixing a bug that eventually turns out to be a missing semicolon.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
