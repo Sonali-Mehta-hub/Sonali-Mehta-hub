@@ -16,7 +16,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sonali-mehta-hub&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=sonali-mehta-hub&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonali-mehta-hub&theme=tokyonight" />
 </p>
 
 <p align="center">
